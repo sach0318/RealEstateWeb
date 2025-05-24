@@ -1,1 +1,1 @@
-Completed this Project also added framer motion for sliding and react form and used react-toast.
+![alt text](<Screenshot (84).png>) ![alt text](<Screenshot (85).png>) ![alt text](<Screenshot (86).png>) ![alt text](<Screenshot (87).png>) ![alt text](<Screenshot (88).png>) ![alt text](<Screenshot (89).png>) ![alt text](<Screenshot (90).png>)
